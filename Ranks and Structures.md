@@ -5,7 +5,7 @@ Here you go donkey :3 UwU - bassistxc
 | **Title**           | **Job**                        |
 | ------------------- | ------------------------------ |
 | King of The Elves   | Manages the elves              |
-| Sovereign           | Our faithful leaders           |
+| Sovereign           | Keepers of history and tradition          |
 | Royal Council       | The board that makes decisions |
 | Royal Family        | Royalty                        |
 | Royal Commander     | The commander of the army      |
