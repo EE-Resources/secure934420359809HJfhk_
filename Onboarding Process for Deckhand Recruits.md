@@ -13,6 +13,7 @@ Goals:
 - Wildlife zones for hunting and gathering
 - Enclosed sailing areas for learning
 - Other PirateCraft mechanic regions, such as brewing areas
+- Enchanting areas
 
 
 ## Inside of the Houses
@@ -39,8 +40,8 @@ Examples of raw-to-material trades, as seen in nick's shop:
 
 Examples of material-to-product trades:
 - A stack of logs +  the voucher for a silk touch disposable pick
-- 
-- 32 Cod for a lure 3 rod
-- 64 Diamonds for a fully enchanted diamond set
+- Some diamond to enchanted book trades
+- 14 diamond blocks for full gset
+- 12 diamond blocks for full fresh gtools
 
 There will also be a brewing community/guild here, so they will have their own area where they have access to materials where they can trade finished potions for a currency that gets them more materials and other, wanted items for motivation.
